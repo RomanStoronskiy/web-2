@@ -1,3 +1,3 @@
 let abc = 'Heart' 
-let a =abc.split('')
+let a = abc.split('')
 console.log(a) 

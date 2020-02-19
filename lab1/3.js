@@ -7,4 +7,4 @@ function nod(n, m) {
       return Math.abs(n);  
     }
   }
-console.log(nod(25,15))
+console.log(nod(25, 15))
